@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MathijsBernsen
-      Currently i'm working as a junior web developer at @impactmediaconcepts. We build both Wordpress sites for our clients, which is our main business, but we also 
+      Currently i'm working as a web developer at @impactmediaconcepts. We build both Wordpress sites for our clients, which is our main business, but we also 
       have build and maintain some custom project in both laravel and CakePHP. ximosales.nl for example( The magic is on the inside which im not allowed to show, sorry :))
       After working for two years i'm starting to gain more and more interest in software project for larger businesses and more challanging project.
       
